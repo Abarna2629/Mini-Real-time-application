@@ -1,10 +1,12 @@
 Vehicle Rental
 
 1.Admin Login
-
+ Mail : admin1@gmail.com
+ Pass : 1
 
 2.User Login
-
+Mail : user1@gmail.com
+pass : 1
 
 ADMIN MODULE
 1.Add vehicle
